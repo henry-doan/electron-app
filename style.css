@@ -6,3 +6,8 @@ body {
 	font-family: "Open Sans", sans-serif;
 	text-align: center;
 }
+
+span {
+	color: #92DAEB;
+	font-size: 75%;
+}
